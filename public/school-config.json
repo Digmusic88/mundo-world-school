@@ -1,0 +1,56 @@
+{
+  "school": {
+    "name": "Mundo World School",
+    "slogan": "Educación de calidad para el futuro",
+    "logo": "/images/logo.png",
+    "address": "Calle Educación 123, Madrid, España",
+    "phone": "+34 911 234 567",
+    "email": "info@mundoworld.edu",
+    "website": "www.mundoworld.edu",
+    "academic_year": "2024-2025",
+    "current_period": "Tercer Período",
+    "director": "Dr. Carlos Mendoza",
+    "vice_director": "Dra. Laura Fernández",
+    "founded": "1995",
+    "students_count": 1250,
+    "teachers_count": 75,
+    "staff_count": 25
+  },
+  "academic_periods": [
+    {
+      "id": "p1",
+      "name": "Primer Período",
+      "start_date": "2024-09-01",
+      "end_date": "2024-12-20"
+    },
+    {
+      "id": "p2",
+      "name": "Segundo Período",
+      "start_date": "2025-01-08",
+      "end_date": "2025-03-28"
+    },
+    {
+      "id": "p3",
+      "name": "Tercer Período",
+      "start_date": "2025-04-15",
+      "end_date": "2025-06-30"
+    }
+  ],
+  "subjects": [
+    "Matemáticas",
+    "Física",
+    "Química",
+    "Historia",
+    "Geografía",
+    "Español",
+    "Inglés",
+    "Educación Física",
+    "Arte",
+    "Música",
+    "Ciencias Naturales",
+    "Tecnología"
+  ],
+  "grade_levels": [
+    "6°", "7°", "8°", "9°", "10°", "11°", "12°"
+  ]
+}
