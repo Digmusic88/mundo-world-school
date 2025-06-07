@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "id": "8A",
+      "name": "8° Grado A",
+      "grade": "8°",
+      "section": "A",
+      "teacher_id": "3",
+      "teacher_name": "Prof. Juan López",
+      "students": ["s3"],
+      "subjects": ["Matemáticas", "Historia", "Ciencias", "Español", "Inglés"],
+      "total_students": 25,
+      "classroom": "Aula 101",
+      "schedule": "08:00 - 14:00",
+      "academic_year": "2024-2025"
+    },
+    {
+      "id": "9A",
+      "name": "9° Grado A",
+      "grade": "9°",
+      "section": "A",
+      "teacher_id": "2",
+      "teacher_name": "Prof. María García",
+      "students": ["s1"],
+      "subjects": ["Matemáticas", "Física", "Historia", "Español", "Inglés"],
+      "total_students": 28,
+      "classroom": "Aula 201",
+      "schedule": "08:00 - 14:00",
+      "academic_year": "2024-2025"
+    },
+    {
+      "id": "10B",
+      "name": "10° Grado B",
+      "grade": "10°",
+      "section": "B",
+      "teacher_id": "2",
+      "teacher_name": "Prof. María García",
+      "students": ["s2"],
+      "subjects": ["Matemáticas", "Física", "Química", "Historia", "Inglés"],
+      "total_students": 26,
+      "classroom": "Aula 301",
+      "schedule": "08:00 - 14:00",
+      "academic_year": "2024-2025"
+    }
+  ]
+}
