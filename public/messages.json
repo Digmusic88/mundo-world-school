@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "id": "msg1",
+      "from_id": "2",
+      "from_name": "Prof. María García",
+      "from_role": "teacher",
+      "to_id": "4",
+      "to_name": "Ana Rodríguez",
+      "to_role": "parent",
+      "subject": "Progreso académico de Pablo",
+      "content": "Estimada Sra. Rodríguez, me complace informarle que Pablo ha mostrado una mejora significativa en Matemáticas este período. Su dedicación en las clases y la resolución de problemas ha sido ejemplar.",
+      "date": "2025-06-06T10:30:00Z",
+      "status": "read",
+      "priority": "normal",
+      "thread_id": "thread1"
+    },
+    {
+      "id": "msg2",
+      "from_id": "4",
+      "from_name": "Ana Rodríguez",
+      "from_role": "parent",
+      "to_id": "2",
+      "to_name": "Prof. María García",
+      "to_role": "teacher",
+      "subject": "Re: Progreso académico de Pablo",
+      "content": "Muchas gracias por la información, profesora. Estamos muy orgullosos del esfuerzo de Pablo. ¿Hay alguna área específica en la que podamos apoyarlo desde casa?",
+      "date": "2025-06-06T15:45:00Z",
+      "status": "read",
+      "priority": "normal",
+      "thread_id": "thread1"
+    },
+    {
+      "id": "msg3",
+      "from_id": "1",
+      "from_name": "Dr. Carlos Mendoza",
+      "from_role": "admin",
+      "to_id": "all_parents",
+      "to_name": "Todos los Padres",
+      "to_role": "parent",
+      "subject": "Reunión de Padres - Próximo Viernes",
+      "content": "Estimados padres de familia, les recordamos que el próximo viernes 14 de junio tendremos nuestra reunión mensual a las 18:00 horas en el auditorio principal. Agradecemos su asistencia.",
+      "date": "2025-06-07T08:00:00Z",
+      "status": "sent",
+      "priority": "high",
+      "thread_id": "thread2"
+    },
+    {
+      "id": "msg4",
+      "from_id": "s1",
+      "from_name": "Pablo Rodríguez",
+      "from_role": "student",
+      "to_id": "2",
+      "to_name": "Prof. María García",
+      "to_role": "teacher",
+      "subject": "Consulta sobre proyecto de Física",
+      "content": "Profesora, tengo una duda sobre el proyecto de energías renovables. ¿Podría incluir información sobre la energía nuclear o solo las renovables tradicionales?",
+      "date": "2025-06-06T19:30:00Z",
+      "status": "unread",
+      "priority": "normal",
+      "thread_id": "thread3"
+    }
+  ]
+}
