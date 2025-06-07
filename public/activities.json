@@ -1,0 +1,68 @@
+{
+  "activities": [
+    {
+      "id": "act1",
+      "title": "Proyecto de Investigación: Energías Renovables",
+      "description": "Investigar y presentar un informe sobre las diferentes fuentes de energía renovable y su impacto en el medio ambiente.",
+      "subject": "Física",
+      "teacher_id": "2",
+      "teacher_name": "Prof. María García",
+      "group": "10B",
+      "type": "Proyecto",
+      "due_date": "2025-06-15",
+      "assigned_date": "2025-05-20",
+      "status": "active",
+      "max_points": 100,
+      "students_assigned": ["s2"],
+      "materials": ["Libros de texto", "Internet", "Presentación PowerPoint"]
+    },
+    {
+      "id": "act2",
+      "title": "Tarea: Ecuaciones Cuadráticas",
+      "description": "Resolver los ejercicios 1-20 del capítulo 5 sobre ecuaciones cuadráticas.",
+      "subject": "Matemáticas",
+      "teacher_id": "2",
+      "teacher_name": "Prof. María García",
+      "group": "9A",
+      "type": "Tarea",
+      "due_date": "2025-06-10",
+      "assigned_date": "2025-06-05",
+      "status": "active",
+      "max_points": 20,
+      "students_assigned": ["s1"],
+      "materials": ["Libro de matemáticas", "Calculadora"]
+    },
+    {
+      "id": "act3",
+      "title": "Ensayo: La Guerra Civil Española",
+      "description": "Escribir un ensayo de 1000 palabras sobre las causas y consecuencias de la Guerra Civil Española.",
+      "subject": "Historia",
+      "teacher_id": "3",
+      "teacher_name": "Prof. Juan López",
+      "group": "8A",
+      "type": "Ensayo",
+      "due_date": "2025-06-12",
+      "assigned_date": "2025-06-01",
+      "status": "active",
+      "max_points": 100,
+      "students_assigned": ["s3"],
+      "materials": ["Fuentes históricas", "Bibliografía recomendada"]
+    },
+    {
+      "id": "act4",
+      "title": "Prove Yourself: Álgebra Lineal",
+      "description": "Evaluación sobre sistemas de ecuaciones lineales, matrices y determinantes.",
+      "subject": "Matemáticas",
+      "teacher_id": "2",
+      "teacher_name": "Prof. María García",
+      "group": "9A",
+      "type": "Prove Yourself",
+      "due_date": "2025-06-08",
+      "assigned_date": "2025-06-01",
+      "status": "completed",
+      "max_points": 100,
+      "students_assigned": ["s1"],
+      "materials": ["Calculadora científica", "Formulario permitido"]
+    }
+  ]
+}
