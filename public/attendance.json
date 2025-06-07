@@ -1,0 +1,89 @@
+{
+  "attendance": [
+    {
+      "id": "a1",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "date": "2025-06-07",
+      "status": "present",
+      "arrival_time": "08:00",
+      "departure_time": "14:00",
+      "subject": "Matemáticas",
+      "teacher_id": "2"
+    },
+    {
+      "id": "a2",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "date": "2025-06-06",
+      "status": "present",
+      "arrival_time": "08:05",
+      "departure_time": "14:00",
+      "subject": "Física",
+      "teacher_id": "2"
+    },
+    {
+      "id": "a3",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "date": "2025-06-05",
+      "status": "absent",
+      "reason": "Enfermedad",
+      "justified": true,
+      "subject": "Historia",
+      "teacher_id": "3"
+    },
+    {
+      "id": "a4",
+      "student_id": "s2",
+      "student_name": "Sofia Rodríguez",
+      "date": "2025-06-07",
+      "status": "present",
+      "arrival_time": "07:55",
+      "departure_time": "14:00",
+      "subject": "Matemáticas",
+      "teacher_id": "2"
+    },
+    {
+      "id": "a5",
+      "student_id": "s2",
+      "student_name": "Sofia Rodríguez",
+      "date": "2025-06-06",
+      "status": "present",
+      "arrival_time": "08:00",
+      "departure_time": "14:00",
+      "subject": "Física",
+      "teacher_id": "2"
+    },
+    {
+      "id": "a6",
+      "student_id": "s3",
+      "student_name": "Diego Martín",
+      "date": "2025-06-07",
+      "status": "present",
+      "arrival_time": "08:10",
+      "departure_time": "14:00",
+      "subject": "Matemáticas",
+      "teacher_id": "3"
+    },
+    {
+      "id": "a7",
+      "student_id": "s3",
+      "student_name": "Diego Martín",
+      "date": "2025-06-06",
+      "status": "late",
+      "arrival_time": "08:20",
+      "departure_time": "14:00",
+      "reason": "Transporte público",
+      "subject": "Historia",
+      "teacher_id": "3"
+    }
+  ],
+  "attendance_stats": {
+    "total_students": 3,
+    "present_today": 3,
+    "absent_today": 0,
+    "late_today": 0,
+    "attendance_rate": 95.2
+  }
+}
