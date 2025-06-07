@@ -1,0 +1,95 @@
+{
+  "grades": [
+    {
+      "id": "g1",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "subject": "Matemáticas",
+      "teacher_id": "2",
+      "grade": 85,
+      "max_grade": 100,
+      "type": "Prove Yourself",
+      "description": "Evaluación de Álgebra Lineal",
+      "date": "2025-05-15",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g2",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "subject": "Física",
+      "teacher_id": "2",
+      "grade": 92,
+      "max_grade": 100,
+      "type": "Actividad",
+      "description": "Laboratorio de Mecánica",
+      "date": "2025-05-20",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g3",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "subject": "Historia",
+      "teacher_id": "3",
+      "grade": 78,
+      "max_grade": 100,
+      "type": "Prove Yourself",
+      "description": "Historia Mundial Siglo XX",
+      "date": "2025-05-10",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g4",
+      "student_id": "s2",
+      "student_name": "Sofia Rodríguez",
+      "subject": "Matemáticas",
+      "teacher_id": "2",
+      "grade": 96,
+      "max_grade": 100,
+      "type": "Prove Yourself",
+      "description": "Cálculo Diferencial",
+      "date": "2025-05-18",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g5",
+      "student_id": "s2",
+      "student_name": "Sofia Rodríguez",
+      "subject": "Física",
+      "teacher_id": "2",
+      "grade": 89,
+      "max_grade": 100,
+      "type": "Actividad",
+      "description": "Proyecto de Termodinámica",
+      "date": "2025-05-22",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g6",
+      "student_id": "s3",
+      "student_name": "Diego Martín",
+      "subject": "Matemáticas",
+      "teacher_id": "3",
+      "grade": 82,
+      "max_grade": 100,
+      "type": "Prove Yourself",
+      "description": "Geometría y Trigonometría",
+      "date": "2025-05-12",
+      "period": "Tercer Período"
+    },
+    {
+      "id": "g7",
+      "student_id": "s3",
+      "student_name": "Diego Martín",
+      "subject": "Historia",
+      "teacher_id": "3",
+      "grade": 88,
+      "max_grade": 100,
+      "type": "Actividad",
+      "description": "Ensayo Historia de España",
+      "date": "2025-05-25",
+      "period": "Tercer Período"
+    }
+  ]
+}
