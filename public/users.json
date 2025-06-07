@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dr. Carlos Mendoza",
+      "email": "carlos.mendoza@mundoworld.edu",
+      "role": "admin",
+      "phone": "+34 611 234 567",
+      "status": "active",
+      "avatar": "/images/admin-avatar.jpg",
+      "created_at": "2024-01-15",
+      "last_login": "2025-06-07T08:30:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Prof. María García",
+      "email": "maria.garcia@mundoworld.edu",
+      "role": "teacher",
+      "phone": "+34 622 345 678",
+      "status": "active",
+      "avatar": "/images/teacher-1.jpg",
+      "subjects": ["Matemáticas", "Física"],
+      "groups": ["9A", "10B"],
+      "created_at": "2024-02-01",
+      "last_login": "2025-06-07T08:15:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Prof. Juan López",
+      "email": "juan.lopez@mundoworld.edu",
+      "role": "teacher",
+      "phone": "+34 633 456 789",
+      "status": "active",
+      "avatar": "/images/teacher-2.jpg",
+      "subjects": ["Historia", "Geografía"],
+      "groups": ["8A", "9A"],
+      "created_at": "2024-02-15",
+      "last_login": "2025-06-07T07:45:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Ana Rodríguez",
+      "email": "ana.rodriguez@email.com",
+      "role": "parent",
+      "phone": "+34 644 567 890",
+      "status": "active",
+      "avatar": "/images/parent-1.jpg",
+      "children": ["s1", "s2"],
+      "created_at": "2024-03-01",
+      "last_login": "2025-06-07T08:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Luis Martín",
+      "email": "luis.martin@email.com",
+      "role": "parent",
+      "phone": "+34 655 678 901",
+      "status": "active",
+      "avatar": "/images/parent-2.jpg",
+      "children": ["s3"],
+      "created_at": "2024-03-15",
+      "last_login": "2025-06-06T19:30:00Z"
+    },
+    {
+      "id": "s1",
+      "name": "Pablo Rodríguez",
+      "email": "pablo.rodriguez@mundoworld.edu",
+      "role": "student",
+      "phone": "+34 666 789 012",
+      "status": "active",
+      "avatar": "/images/student-1.jpg",
+      "group": "9A",
+      "grade": "9°",
+      "parent_id": "4",
+      "birth_date": "2010-04-15",
+      "student_id": "MS2025001",
+      "created_at": "2024-09-01",
+      "last_login": "2025-06-06T16:45:00Z"
+    },
+    {
+      "id": "s2",
+      "name": "Sofia Rodríguez",
+      "email": "sofia.rodriguez@mundoworld.edu",
+      "role": "student",
+      "phone": "+34 677 890 123",
+      "status": "active",
+      "avatar": "/images/student-2.jpg",
+      "group": "10B",
+      "grade": "10°",
+      "parent_id": "4",
+      "birth_date": "2009-02-28",
+      "student_id": "MS2025002",
+      "created_at": "2024-09-01",
+      "last_login": "2025-06-06T17:15:00Z"
+    },
+    {
+      "id": "s3",
+      "name": "Diego Martín",
+      "email": "diego.martin@mundoworld.edu",
+      "role": "student",
+      "phone": "+34 688 901 234",
+      "status": "active",
+      "avatar": "/images/student-3.jpg",
+      "group": "8A",
+      "grade": "8°",
+      "parent_id": "5",
+      "birth_date": "2011-07-20",
+      "student_id": "MS2025003",
+      "created_at": "2024-09-01",
+      "last_login": "2025-06-06T15:30:00Z"
+    }
+  ]
+}
