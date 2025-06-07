@@ -1,0 +1,71 @@
+{
+  "payments": [
+    {
+      "id": "pay1",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "parent_id": "4",
+      "parent_name": "Ana Rodríguez",
+      "concept": "Matrícula Tercer Período",
+      "amount": 450.00,
+      "currency": "EUR",
+      "due_date": "2025-06-01",
+      "paid_date": "2025-05-28",
+      "status": "paid",
+      "payment_method": "Transferencia bancaria",
+      "academic_year": "2024-2025"
+    },
+    {
+      "id": "pay2",
+      "student_id": "s2",
+      "student_name": "Sofia Rodríguez",
+      "parent_id": "4",
+      "parent_name": "Ana Rodríguez",
+      "concept": "Matrícula Tercer Período",
+      "amount": 450.00,
+      "currency": "EUR",
+      "due_date": "2025-06-01",
+      "paid_date": "2025-05-28",
+      "status": "paid",
+      "payment_method": "Transferencia bancaria",
+      "academic_year": "2024-2025"
+    },
+    {
+      "id": "pay3",
+      "student_id": "s3",
+      "student_name": "Diego Martín",
+      "parent_id": "5",
+      "parent_name": "Luis Martín",
+      "concept": "Matrícula Tercer Período",
+      "amount": 450.00,
+      "currency": "EUR",
+      "due_date": "2025-06-01",
+      "paid_date": null,
+      "status": "pending",
+      "payment_method": null,
+      "academic_year": "2024-2025"
+    },
+    {
+      "id": "pay4",
+      "student_id": "s1",
+      "student_name": "Pablo Rodríguez",
+      "parent_id": "4",
+      "parent_name": "Ana Rodríguez",
+      "concept": "Materiales de Laboratorio",
+      "amount": 75.00,
+      "currency": "EUR",
+      "due_date": "2025-06-15",
+      "paid_date": null,
+      "status": "pending",
+      "payment_method": null,
+      "academic_year": "2024-2025"
+    }
+  ],
+  "financial_summary": {
+    "total_revenue": 1875.00,
+    "collected": 900.00,
+    "pending": 975.00,
+    "overdue": 450.00,
+    "collection_rate": 48.0
+  }
+}
